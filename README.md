@@ -93,9 +93,9 @@ none
 ## Authors
 
 - Team TechTians<br>
-                SREERAMADASU MUKUNDA RAMA CHARY<br>
-                YASWANTH BUDURU<br>
                 A.SWARANJITH KUMAR GOUD<br>
+                YASWANTH BUDURU<br>
+                Sreeramadasu Mukunda Rama Chary<br>
                 B.BHARGAV VENKAT DORA<br>
 
 
